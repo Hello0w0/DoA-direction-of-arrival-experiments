@@ -3,8 +3,8 @@ The comprehensive homework of the DSP class, test the performance of MUSIC, ESPR
 the annotations are in Chinese because its my homework :)
 
 ## To run the program:
-* modify and run `test_MSE.py` to get the MSE of the three algorithm, then run `plot_MSE.py` to plot the results.
-* modify and run `test_Resolution.py` to get the resolution of the three algorithm, then run `plot_Resolution.py` to plot the results.
+* modify and run `test_MSE.py` to get the MSE of the three algorithms, then run `plot_MSE.py` to plot the results.
+* modify and run `test_Resolution.py` to get the resolution of the three algorithms, then run `plot_Resolution.py` to plot the results.
 
 ## references
 Pesavento, M. , Gershman, A. B. , & Wong, K. M. . (2002). Direction finding in partly calibrated sensor arrays composed of multiple subarrays. IEEE Transactions on Signal Processing, 50(9), 2103-2115.
